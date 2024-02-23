@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Comparing MVC vs. MVVM",
+    "description": "Discover differences between MVC and MVVM, helping you choose the right architecture for your projects.",
+    "date_created": "October 15, 2023",
+    "user_id": 1
+  },
+  {
+    "title": "MVC Basics in Web Dev",
+    "description": "Explore Model-View-Controller (MVC) in web development, its roles, benefits, and impact on code organization.",
+    "date_created": "January 2, 2024",
+    "user_id": 2
+  },
+  {
+    "title": "Implementing MVC in JavaScript Frameworks",
+    "description": "Learn how MVC is implemented in Angular, React, and Vue.js, with code examples for clarity.",
+    "date_created": "February 22, 2024",
+    "user_id": 3
+  }
+]
