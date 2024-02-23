@@ -1,4 +1,4 @@
-# effective-palm-tree14
+# effective-palm-tree
 
 
 ## Table of Contents
@@ -59,6 +59,3 @@ First, like always, type in the intergrated terminal "npm i". Then type:
 ```
     npm start               Press Enter
 ```
-
-
-
